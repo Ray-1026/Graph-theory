@@ -1,1 +1,1 @@
-# NYCU-graph-theory
+# Graph-theory
